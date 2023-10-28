@@ -22,3 +22,4 @@ App.js'de bu iki görünüm arasında geçişi sağla
 
 Toolkit Kurulum
 # Thunk-Toolkit-Radar
+![](Radar.gif)
